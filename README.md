@@ -1,2 +1,6 @@
-# ipod-dataset-exploration
-Quick exploration of the IPOD dataset.
+IPOD Data Exploration
+---
+
+Quick exploration of the [IPOD](https://github.com/junhua/ipod) dataset.
+
+
